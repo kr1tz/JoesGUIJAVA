@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SummaryPanel()
+comment1.params=
+comment1.target=int\ getTotalCustomers()
+comment10.params=totalCharges
+comment10.target=void\ setTotalCharges(double)
+comment2.params=totalCustomers
+comment2.target=void\ setTotalCustomers(int)
+comment3.params=
+comment3.target=double\ getTotalRoutineCharges()
+comment4.params=totalRoutineCharges
+comment4.target=void\ setTotalRoutineCharges(double)
+comment5.params=
+comment5.target=double\ getTotalNonRoutineCharges()
+comment6.params=totalNonRoutineCharges
+comment6.target=void\ setTotalNonRoutineCharges(double)
+comment7.params=
+comment7.target=double\ getTotalTaxes()
+comment8.params=totalTaxes
+comment8.target=void\ setTotalTaxes(double)
+comment9.params=
+comment9.target=double\ getTotalCharges()
+numComments=11
